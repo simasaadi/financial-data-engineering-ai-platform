@@ -13,6 +13,8 @@ The dashboard shows:
 from __future__ import annotations
 
 from pathlib import Path
+import subprocess
+import sys
 
 import duckdb
 import pandas as pd
@@ -21,6 +23,24 @@ import streamlit as st
 
 
 DUCKDB_PATH = Path("data/financial_platform.duckdb")
+
+
+def ensure_database_ready() -> None:
+    if DUCKDB_PATH.exists():
+        return
+
+    with st.spinner("Building demo DuckDB database from synthetic pipeline outputs..."):
+        result = subprocess.run(
+            [sys.executable, "src/orchestration/run_pipeline.py"],
+            text=True,
+            capture_output=True,
+        )
+
+        if result.returncode != 0:
+            st.error("Pipeline failed while preparing the dashboard database.")
+            st.code(result.stdout)
+            st.code(result.stderr)
+            st.stop()
 
 
 st.set_page_config(
@@ -308,6 +328,7 @@ def show_ml_features(ml_features: pd.DataFrame) -> None:
 
 def main() -> None:
     show_header()
+    ensure_database_ready()
 
     try:
         table_counts = get_table_counts()
@@ -346,3 +367,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
