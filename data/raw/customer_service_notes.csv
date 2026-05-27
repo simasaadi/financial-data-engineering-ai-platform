@@ -1,0 +1,301 @@
+case_id,customer_id,created_at,issue_type,priority,case_note,case_status
+CASE000001,CUST000801,2026-05-27 17:34:34,card dispute,medium,Voluptates maxime impedit eius nam nihil quasi cupiditate perspiciatis nam aliquid exercitationem officia fugit.,closed
+CASE000002,CUST000758,2026-04-20 17:34:34,address change,low,Eum impedit corrupti fugiat quidem labore sed error provident rem totam natus voluptas nam consequatur doloribus dignissimos officia ullam sed at quam.,resolved
+CASE000003,CUST000428,2026-03-17 17:34:34,login problem,low,Amet fugiat non aliquam asperiores rem nesciunt perferendis dolor distinctio tenetur esse tenetur distinctio deleniti.,resolved
+CASE000004,CUST000288,2025-12-09 17:34:34,address change,medium,Quia quidem totam possimus provident id dolores eum eligendi iure officiis est facere.,resolved
+CASE000005,CUST000324,2026-01-10 17:34:34,credit limit question,low,Iure rem quam quis eum dicta est aliquid sint qui accusamus mollitia nesciunt quam eos deserunt dolorem necessitatibus doloribus mollitia velit excepturi.,resolved
+CASE000006,CUST000393,2026-01-12 17:34:34,login problem,low,Vitae odit laudantium cumque recusandae cumque quam laborum totam molestiae odit animi alias sed veniam pariatur quisquam impedit sapiente doloremque provident.,resolved
+CASE000007,CUST000464,2026-04-11 17:34:34,fraud concern,medium,Dolor iste aperiam odit ut totam omnis accusamus minus illum.,in_progress
+CASE000008,CUST000204,2025-12-12 17:34:34,credit limit question,medium,Minus eius voluptate accusantium repellat perferendis rem tenetur autem atque corrupti.,resolved
+CASE000009,CUST000821,2026-05-14 17:34:34,address change,high,Nulla dolorum explicabo recusandae aspernatur vero itaque doloribus possimus error repudiandae aspernatur voluptatibus officiis adipisci.,in_progress
+CASE000010,CUST000128,2026-04-07 17:34:34,address change,medium,Fugit mollitia animi ab cupiditate libero inventore quos natus similique atque minus aliquam distinctio sint suscipit labore aliquid asperiores.,in_progress
+CASE000011,CUST000015,2026-02-27 17:34:34,card dispute,low,Tempore natus adipisci ut et vero nesciunt quibusdam quae id aspernatur cum dolores rerum harum tempore ex.,in_progress
+CASE000012,CUST000173,2026-04-11 17:34:34,account closure request,medium,Ratione porro aspernatur quia exercitationem atque doloremque asperiores non nostrum nisi voluptas eveniet.,in_progress
+CASE000013,CUST000808,2026-05-15 17:34:34,address change,low,Quos iste dolorem mollitia fugiat delectus nesciunt fugit quo eos doloribus asperiores eaque fugit quos culpa.,closed
+CASE000014,CUST000864,2026-02-20 17:34:34,card dispute,low,Et autem a est facere earum consequatur deleniti ipsum mollitia illum ad explicabo at nisi eveniet harum eos harum.,resolved
+CASE000015,CUST000988,2026-05-14 17:34:34,payment delay,medium,Quam nam voluptatibus doloribus maxime placeat cumque eaque eaque corporis cumque eius.,open
+CASE000016,CUST000375,2026-02-04 17:34:34,credit limit question,low,Laborum asperiores dolorum doloribus numquam nisi deserunt autem esse veniam ex nulla rem eveniet ex repellendus similique.,open
+CASE000017,CUST000099,2026-03-31 17:34:34,card dispute,medium,Consequatur eum veniam dicta et vitae voluptas eos possimus laudantium nemo doloribus fugiat repellendus hic beatae natus nihil molestias placeat mollitia veritatis iure provident.,resolved
+CASE000018,CUST000931,2026-05-12 17:34:34,fraud concern,low,Reiciendis rerum architecto sed recusandae perferendis consequuntur esse dolorum culpa incidunt fugiat ipsum nisi neque modi unde sit in alias.,in_progress
+CASE000019,CUST000213,2026-04-15 17:34:34,account closure request,low,Praesentium repellat nisi totam autem dolorum optio cumque nostrum natus officia officia vitae ex recusandae autem atque dolore quia.,in_progress
+CASE000020,CUST000308,2026-05-14 17:34:34,fraud concern,medium,Neque nemo ipsum hic quo nihil magnam exercitationem ad autem impedit vitae blanditiis velit consequuntur est iste dignissimos laboriosam labore ipsa possimus eum.,in_progress
+CASE000021,CUST000184,2026-04-16 17:34:34,fraud concern,medium,Aliquid quae ad exercitationem autem reiciendis ut qui maiores mollitia ex incidunt iure reiciendis occaecati delectus omnis.,resolved
+CASE000022,CUST000428,2026-03-31 17:34:34,login problem,low,Adipisci nostrum deserunt nihil harum provident dignissimos quibusdam repellat aperiam aut sit deleniti eveniet itaque ea similique minus odit.,in_progress
+CASE000023,CUST000115,2026-01-29 17:34:34,login problem,medium,Harum hic beatae explicabo itaque cupiditate perferendis reiciendis ullam nihil perferendis est dolores blanditiis fuga consequuntur harum nisi nemo in laborum modi ullam ut.,in_progress
+CASE000024,CUST000610,2026-04-01 17:34:34,card dispute,medium,Mollitia laudantium consequuntur et iste amet facere ab consequatur repellendus vitae magnam libero placeat.,resolved
+CASE000025,CUST000286,2026-04-25 17:34:34,payment delay,medium,Quae ipsam cumque natus recusandae dolore adipisci dolore enim quos natus quo libero magni nemo eaque molestiae voluptatibus molestiae quidem.,closed
+CASE000026,CUST000871,2026-04-05 17:34:34,account closure request,low,Molestias voluptatibus aut rerum quibusdam error voluptatum ipsum expedita repellendus ipsa voluptatibus quod dolores repellat nihil expedita quae odio cumque.,closed
+CASE000027,CUST000483,2026-05-21 17:34:34,account closure request,low,Quos repellendus rem necessitatibus minus nisi cumque voluptatem eos nemo veritatis maiores tempore.,resolved
+CASE000028,CUST000141,2025-12-18 17:34:34,credit limit question,medium,Consequatur quibusdam illum animi eius omnis praesentium consequatur corporis eum dolorum sapiente.,open
+CASE000029,CUST000390,2026-02-04 17:34:34,payment delay,medium,Laudantium neque eaque impedit iste odio sunt at maiores eius vel fuga veniam eveniet a quo quasi quasi itaque.,open
+CASE000030,CUST000767,2026-05-02 17:34:34,address change,medium,Sed recusandae id voluptas repudiandae libero eum eligendi molestias consectetur sequi ratione tempora quis aliquid numquam saepe accusamus.,resolved
+CASE000031,CUST000101,2026-05-02 17:34:34,credit limit question,low,Ipsam a vero dicta porro consequatur officiis culpa ut earum omnis dolorum fuga temporibus.,in_progress
+CASE000032,CUST000819,2026-05-01 17:34:34,address change,low,Amet numquam quas quidem inventore at atque distinctio aspernatur nisi maxime ipsum ab exercitationem.,in_progress
+CASE000033,CUST000245,2026-02-12 17:34:34,credit limit question,low,Voluptates in consequatur architecto fugit quas aut et sunt consequatur quo quidem consequatur.,in_progress
+CASE000034,CUST000563,2026-04-29 17:34:34,account closure request,high,Architecto natus nostrum cum expedita distinctio quibusdam ullam nulla ipsam dolor tempore consequuntur commodi.,closed
+CASE000035,CUST000143,2026-03-19 17:34:34,fraud concern,low,Expedita inventore ratione dolorum officia dolorum nobis quam eligendi velit ad sed soluta dignissimos non deleniti hic officia quos.,in_progress
+CASE000036,CUST000567,2026-05-06 17:34:34,login problem,low,Libero beatae libero nisi minus voluptate voluptates ut consequatur similique necessitatibus facilis placeat quis veritatis quo.,in_progress
+CASE000037,CUST000360,2025-11-29 17:34:34,card dispute,medium,Nesciunt accusamus dolor ullam veniam id enim quae quisquam incidunt illo.,closed
+CASE000038,CUST000771,2026-02-14 17:34:34,credit limit question,medium,Modi corrupti assumenda aspernatur ullam voluptate culpa eveniet nesciunt quis officiis officia est ipsa veritatis dolores doloribus unde blanditiis nostrum animi pariatur omnis.,closed
+CASE000039,CUST000111,2026-04-03 17:34:34,login problem,high,Blanditiis provident praesentium cum veritatis minima quos quam cumque consectetur quos eaque suscipit quo.,open
+CASE000040,CUST000350,2025-12-09 17:34:34,address change,low,Ex inventore minima ea voluptate occaecati libero magni animi similique cumque.,resolved
+CASE000041,CUST000539,2026-01-13 17:34:34,payment delay,medium,Ducimus aut nemo quam dolorem magni aliquid sint doloribus iusto fugit corrupti ut similique.,closed
+CASE000042,CUST000332,2026-01-27 17:34:34,account closure request,low,Rem quae omnis dolore dolorum totam eum repudiandae nemo blanditiis perferendis amet dolore maiores aliquid id soluta sint quo est assumenda itaque fuga.,open
+CASE000043,CUST000234,2025-12-30 17:34:34,account closure request,medium,Natus esse numquam iure nihil laudantium quo deserunt tempore quis doloribus ab illum doloremque expedita saepe soluta.,in_progress
+CASE000044,CUST000343,2025-12-11 17:34:34,address change,medium,A omnis sed quas aut minus dolores laudantium animi voluptatum quae at ullam tempore maxime praesentium fuga voluptate.,in_progress
+CASE000045,CUST000245,2025-12-18 17:34:34,payment delay,low,Neque magnam odio hic nihil aperiam optio consectetur eos sed unde hic.,in_progress
+CASE000046,CUST000253,2026-01-24 17:34:34,account closure request,low,Et earum asperiores dicta quod nesciunt culpa cum iure illo modi vitae dignissimos est eaque blanditiis culpa placeat.,closed
+CASE000047,CUST000004,2026-02-06 17:34:34,login problem,high,Aliquam saepe eveniet at dolorum explicabo maiores perspiciatis ea voluptatibus adipisci illo iste quibusdam dolorum iure rem consequuntur accusamus rerum voluptatem consectetur reprehenderit fuga.,in_progress
+CASE000048,CUST000636,2026-01-03 17:34:34,login problem,medium,Vel assumenda nesciunt totam asperiores voluptatum deserunt officia repellat at sed repellat commodi velit amet unde inventore quam libero fugit incidunt explicabo tenetur eius ipsum.,open
+CASE000049,CUST000761,2025-12-22 17:34:34,payment delay,low,Alias nulla doloribus eos illum mollitia aperiam eius consequatur dicta suscipit minima occaecati reiciendis.,in_progress
+CASE000050,CUST000917,2025-12-20 17:34:34,card dispute,low,Voluptatibus quos facere molestias laborum totam magnam harum debitis eum dolor.,open
+CASE000051,CUST000304,2026-02-07 17:34:34,account closure request,low,Animi voluptatibus minus quisquam voluptatum voluptate aut omnis eaque repellendus totam animi voluptatum dolor sed reiciendis explicabo.,resolved
+CASE000052,CUST000329,2026-05-17 17:34:34,credit limit question,medium,Debitis nihil rem possimus totam adipisci praesentium veniam natus natus deleniti voluptates sunt laudantium.,in_progress
+CASE000053,CUST000039,2026-03-30 17:34:34,payment delay,low,Cupiditate alias animi nobis accusantium labore ex nostrum rem exercitationem debitis rem sit animi corporis provident consequuntur.,closed
+CASE000054,CUST000233,2026-02-01 17:34:34,credit limit question,medium,Sed similique vero fuga velit hic aut error consequatur culpa veniam recusandae vero.,in_progress
+CASE000055,CUST000232,2026-02-28 17:34:34,fraud concern,medium,Cupiditate voluptas possimus ut ratione dolore nihil cupiditate esse porro consectetur quas veniam veniam hic voluptatibus vitae adipisci.,in_progress
+CASE000056,CUST000580,2026-01-27 17:34:34,login problem,low,Et repellat nostrum odit aut libero ex aspernatur expedita eum odio vitae reprehenderit pariatur quas excepturi accusamus distinctio possimus expedita ratione quam aliquid ipsa.,resolved
+CASE000057,CUST000847,2026-01-14 17:34:34,payment delay,low,Voluptas sunt laudantium fugiat molestias aut laboriosam sint officiis porro cum asperiores sapiente eos eum veritatis asperiores cumque fugiat quasi.,closed
+CASE000058,CUST000657,2025-12-11 17:34:34,address change,low,Velit voluptatem excepturi voluptates tempora provident inventore officiis non ipsa amet ex voluptate illum mollitia unde molestiae optio error atque hic mollitia laudantium.,closed
+CASE000059,CUST000227,2026-03-30 17:34:34,login problem,low,Facere incidunt eos optio nobis dicta ad cupiditate eos aspernatur sapiente.,closed
+CASE000060,CUST000474,2026-04-18 17:34:34,account closure request,high,Quos iusto tempora eaque odit harum fuga fugit delectus aliquid ipsam ea saepe natus corrupti possimus atque.,in_progress
+CASE000061,CUST000857,2026-05-01 17:34:34,account closure request,medium,Repellat impedit quidem dolorem aperiam harum minima vitae porro vel nemo doloremque error hic sequi alias necessitatibus maxime.,in_progress
+CASE000062,CUST000687,2025-12-31 17:34:34,address change,medium,Perspiciatis nulla blanditiis quidem cupiditate voluptates voluptas repellat commodi incidunt voluptates ipsa voluptatum occaecati rerum ducimus tenetur totam architecto harum id eveniet eius.,open
+CASE000063,CUST000367,2026-02-09 17:34:34,credit limit question,medium,Totam accusamus praesentium nesciunt quos beatae corrupti necessitatibus nesciunt vitae aut autem quod ratione sint sunt soluta eaque omnis nemo labore.,closed
+CASE000064,CUST000200,2026-05-03 17:34:34,card dispute,medium,Eius corporis non possimus aliquam suscipit ex dolores quia ullam tempore accusantium repellendus esse.,in_progress
+CASE000065,CUST000135,2025-12-24 17:34:34,login problem,low,Sapiente similique placeat voluptas dolorem error quia quo eum quas non at ipsam totam illum laborum maxime.,closed
+CASE000066,CUST000254,2026-05-19 17:34:34,address change,low,Reprehenderit maiores culpa est magni consequatur sed sunt adipisci deserunt rerum saepe dolorum itaque ullam provident earum reprehenderit magnam.,closed
+CASE000067,CUST000445,2026-04-06 17:34:34,address change,medium,Perspiciatis doloribus laborum ipsum vero labore mollitia exercitationem saepe ea rerum at ad.,in_progress
+CASE000068,CUST000713,2026-05-07 17:34:34,account closure request,low,Cum nemo vitae sequi officia perspiciatis eaque illum accusantium quos quisquam.,closed
+CASE000069,CUST000497,2025-12-13 17:34:34,credit limit question,low,Labore consequatur cupiditate reiciendis dolore non velit quae quae eius.,resolved
+CASE000070,CUST000477,2026-05-12 17:34:34,card dispute,low,Sed itaque dolor error maxime numquam nesciunt ab voluptatum vitae saepe natus nisi eligendi placeat laboriosam excepturi eius eveniet.,open
+CASE000071,CUST000013,2026-01-13 17:34:34,address change,medium,Ea quae tempora error corrupti quisquam tempore rem rem nobis optio perspiciatis quam omnis voluptatum ea in.,open
+CASE000072,CUST000402,2026-01-03 17:34:34,card dispute,low,Qui nesciunt voluptatum repellendus exercitationem quae placeat odit labore velit facere error cumque omnis nam eos iusto qui quam.,resolved
+CASE000073,CUST000637,2026-02-13 17:34:34,login problem,medium,Quis delectus perspiciatis excepturi at explicabo quia esse ratione ex ea eos sed iusto sint nesciunt velit architecto suscipit magnam sint fugit error.,in_progress
+CASE000074,CUST000713,2026-01-01 17:34:34,address change,low,Sit corrupti voluptatibus exercitationem voluptates tempora voluptates corporis similique debitis aspernatur.,resolved
+CASE000075,CUST000682,2025-12-18 17:34:34,credit limit question,medium,Occaecati debitis odio a earum quis cumque quisquam laudantium quis at nostrum odio illo vitae fugit alias dicta.,closed
+CASE000076,CUST000249,2026-05-16 17:34:34,login problem,high,Veniam tempora quidem minus accusantium a quasi dolorem soluta est aut magnam esse aperiam aliquid veniam iste maxime minima.,in_progress
+CASE000077,CUST000340,2026-04-17 17:34:34,credit limit question,medium,Suscipit voluptatum exercitationem temporibus facere deleniti veniam ullam illo dolorem quas consectetur quasi nihil cumque facilis officiis alias soluta ducimus.,in_progress
+CASE000078,CUST000675,2026-04-04 17:34:34,credit limit question,medium,Numquam nisi aliquid autem saepe aliquid blanditiis ipsam commodi dolorum praesentium dignissimos placeat ab in aut maxime numquam praesentium in tempore maiores nulla.,open
+CASE000079,CUST000125,2026-01-11 17:34:34,fraud concern,low,Beatae autem dicta dicta ea minima dicta provident eos aliquam libero dignissimos ut ex a perferendis tenetur.,open
+CASE000080,CUST000875,2026-03-07 17:34:34,account closure request,low,Pariatur corrupti at maiores quam aut ducimus doloremque voluptates eos iure aut cupiditate aliquam enim reiciendis est qui atque quidem aliquid sequi optio.,closed
+CASE000081,CUST000626,2026-04-01 17:34:34,credit limit question,low,Eveniet tempora veritatis eaque quasi fuga exercitationem beatae id itaque saepe porro laboriosam in.,in_progress
+CASE000082,CUST000359,2025-12-23 17:34:34,address change,medium,Beatae possimus animi velit cum impedit nihil rem perspiciatis debitis fugit facere adipisci placeat.,in_progress
+CASE000083,CUST000710,2025-11-29 17:34:34,card dispute,high,Laboriosam laborum suscipit ipsam aperiam omnis accusamus sit minima quia quam dolore veritatis.,in_progress
+CASE000084,CUST000839,2026-04-09 17:34:34,account closure request,medium,Maxime porro nulla inventore quas laboriosam optio odit corrupti repudiandae tempora nostrum accusamus vel magni iusto libero cumque.,in_progress
+CASE000085,CUST000586,2026-04-19 17:34:34,login problem,low,Eum ex eius magni mollitia fugiat repellendus aspernatur ipsam nemo at libero et voluptatem quia accusantium illo alias molestias repudiandae recusandae.,resolved
+CASE000086,CUST000969,2026-01-06 17:34:34,card dispute,medium,Odit tempora natus omnis itaque exercitationem repudiandae repellendus sapiente ex quisquam nobis quaerat facilis iste atque omnis a explicabo odio reiciendis molestias fugiat autem tempore.,in_progress
+CASE000087,CUST000997,2026-03-31 17:34:34,login problem,low,Consequuntur quaerat quam autem nostrum deleniti ut hic itaque quos quaerat autem impedit unde saepe nihil quo ipsum omnis vero consequatur libero.,closed
+CASE000088,CUST000520,2025-12-31 17:34:34,card dispute,low,Quasi mollitia inventore nesciunt unde quos tenetur porro cupiditate repellendus aut omnis non eum sunt in non possimus dolorum id exercitationem eos.,resolved
+CASE000089,CUST000436,2025-12-08 17:34:34,fraud concern,low,Consequuntur nobis suscipit maiores sapiente molestias et qui mollitia dolor distinctio quaerat placeat.,resolved
+CASE000090,CUST000863,2025-12-27 17:34:34,payment delay,medium,Voluptatem officiis vero magnam possimus eum blanditiis explicabo laboriosam necessitatibus pariatur impedit quibusdam.,open
+CASE000091,CUST000681,2026-02-14 17:34:34,address change,medium,Enim sed repellat minima ad corporis pariatur dicta quibusdam cum enim dolorum saepe porro eos quidem adipisci repellendus aut sint qui sint quia.,resolved
+CASE000092,CUST000855,2026-04-26 17:34:34,address change,medium,Harum magni reiciendis possimus possimus aliquid fugit impedit ratione placeat vitae amet quia dicta sit similique ipsam dolorem odio quae facilis nihil qui.,closed
+CASE000093,CUST000456,2026-03-12 17:34:34,address change,low,Quod vitae eos debitis placeat deleniti cupiditate maiores fugiat incidunt nam consectetur nesciunt ducimus ex.,closed
+CASE000094,CUST000906,2026-03-13 17:34:34,payment delay,medium,Aliquam ut nisi quo numquam sapiente error ratione mollitia asperiores provident minima vero maxime.,in_progress
+CASE000095,CUST000318,2026-04-07 17:34:34,address change,low,Cum molestiae illo expedita sunt optio ex eos veniam nulla labore natus quibusdam officiis beatae exercitationem dolores odit ullam doloribus aliquam suscipit.,closed
+CASE000096,CUST000823,2026-03-27 17:34:34,login problem,low,Totam velit harum molestiae eligendi tenetur reprehenderit fugiat rem ipsum aliquam tempore deserunt maiores veniam cumque vero modi ab.,closed
+CASE000097,CUST000664,2026-05-04 17:34:34,account closure request,low,Distinctio occaecati distinctio placeat saepe dignissimos repudiandae soluta qui ipsa repellendus asperiores.,closed
+CASE000098,CUST000838,2026-03-19 17:34:34,card dispute,medium,Ad quaerat alias asperiores debitis dolorum architecto reprehenderit tenetur illum iste illo et harum.,closed
+CASE000099,CUST000254,2026-02-27 17:34:34,payment delay,low,Modi odit nulla quidem nesciunt praesentium asperiores unde autem ratione error assumenda quisquam.,resolved
+CASE000100,CUST000879,2026-01-29 17:34:34,address change,high,Fugit reprehenderit adipisci culpa dolore quia reiciendis sed eos odio error suscipit vitae sint officia vero accusamus soluta consequuntur aliquam.,resolved
+CASE000101,CUST000612,2026-02-01 17:34:34,fraud concern,low,Nisi modi veniam esse quibusdam temporibus exercitationem impedit officia maiores cum dolore rerum deserunt delectus reiciendis sequi sed ut voluptatibus itaque mollitia enim.,open
+CASE000102,CUST000503,2026-02-04 17:34:34,account closure request,medium,Dolorum deserunt neque veritatis explicabo perferendis doloremque eligendi architecto deserunt laborum eveniet.,closed
+CASE000103,CUST000089,2026-01-08 17:34:34,credit limit question,low,Possimus corrupti necessitatibus repellat vero cumque et quos quae odit eius facere perspiciatis ex laboriosam ipsum quod.,closed
+CASE000104,CUST000343,2025-12-10 17:34:34,card dispute,low,Mollitia cupiditate non sapiente similique consequuntur molestiae ea suscipit asperiores asperiores accusantium magni adipisci neque illo nihil temporibus mollitia molestiae voluptatum.,in_progress
+CASE000105,CUST000714,2026-01-23 17:34:34,fraud concern,low,Omnis corrupti hic tempora nihil similique consequatur magnam at facilis ab dolores vitae voluptatem placeat quidem consequuntur culpa necessitatibus natus sit.,in_progress
+CASE000106,CUST000211,2025-12-04 17:34:34,login problem,low,Quasi laboriosam facere dolor laborum aperiam fuga aliquam dignissimos tenetur facere iusto iste aliquid.,closed
+CASE000107,CUST000129,2026-01-26 17:34:34,account closure request,low,Aut voluptas odio earum quia neque necessitatibus fugiat fugiat nesciunt tempore aspernatur dolorum voluptate dolore illo repellendus exercitationem.,resolved
+CASE000108,CUST000533,2026-02-23 17:34:34,address change,low,Suscipit ab sunt ipsam dolorem maiores eligendi corrupti culpa nobis repellendus optio impedit ex beatae perferendis laboriosam nihil officia illum doloribus.,open
+CASE000109,CUST000545,2025-12-12 17:34:34,login problem,low,Nemo cum occaecati aliquam nemo animi ea debitis vero nobis natus accusantium quaerat.,closed
+CASE000110,CUST000042,2026-05-08 17:34:34,payment delay,low,Veniam dolor non iusto laboriosam dolor illum consequuntur nesciunt quisquam numquam magni cumque placeat ullam nisi architecto.,closed
+CASE000111,CUST000374,2026-01-25 17:34:34,account closure request,low,Harum autem dicta similique magnam in corrupti atque labore nostrum aliquam quos magnam blanditiis laboriosam consectetur nobis repudiandae tempore.,closed
+CASE000112,CUST000743,2026-03-01 17:34:34,payment delay,medium,Minima fuga aliquam minus dolorem rem ratione fugit nihil qui quis possimus atque consequatur labore doloremque similique eligendi soluta illum.,open
+CASE000113,CUST000096,2025-12-09 17:34:34,address change,high,A quia ab minima maxime fugiat dignissimos rem illum autem incidunt nesciunt ea modi natus.,closed
+CASE000114,CUST000141,2026-05-17 17:34:34,payment delay,low,Eius perspiciatis quidem impedit quos laboriosam fuga mollitia ducimus esse exercitationem provident quasi sequi omnis quibusdam ipsum praesentium cum dolor id excepturi mollitia possimus.,closed
+CASE000115,CUST000095,2025-12-21 17:34:34,credit limit question,medium,Cum vitae a at corporis unde ipsa aperiam dolore aspernatur alias.,resolved
+CASE000116,CUST000582,2026-03-02 17:34:34,card dispute,medium,Ut id omnis enim vitae animi quo cupiditate laudantium ab sed ut maxime deserunt quos magni praesentium nostrum perferendis.,open
+CASE000117,CUST000767,2026-04-19 17:34:34,account closure request,medium,Dolores a culpa voluptatum quod explicabo hic nesciunt maxime qui architecto at eligendi rerum totam expedita vitae eius non.,in_progress
+CASE000118,CUST000869,2026-04-19 17:34:34,payment delay,low,Iste illo a cupiditate magni nam magnam excepturi blanditiis maiores ducimus modi recusandae dolorum ipsam.,resolved
+CASE000119,CUST000162,2026-02-12 17:34:34,account closure request,high,Natus quo quidem vero itaque itaque nesciunt ad blanditiis architecto odio voluptatibus perspiciatis dolorem et veritatis maxime ab rerum.,closed
+CASE000120,CUST000904,2026-05-25 17:34:34,fraud concern,low,Enim id quibusdam exercitationem mollitia debitis et dolor nemo delectus quia ut deleniti qui doloremque doloribus.,resolved
+CASE000121,CUST000633,2025-12-01 17:34:34,card dispute,low,Dignissimos dicta dolorum nulla culpa autem ullam perferendis optio nostrum quisquam molestiae aliquam laboriosam nulla laudantium.,resolved
+CASE000122,CUST000483,2026-02-21 17:34:34,login problem,medium,Sit laudantium voluptates totam eligendi dolore nemo amet reiciendis laboriosam molestiae magnam hic placeat cupiditate voluptate praesentium itaque porro accusamus distinctio neque eveniet.,open
+CASE000123,CUST000293,2026-01-23 17:34:34,fraud concern,medium,Similique deleniti ea earum vero exercitationem delectus incidunt in quibusdam facilis id iste necessitatibus voluptatem placeat repellendus quam rem nam sequi deserunt reiciendis qui.,resolved
+CASE000124,CUST000245,2026-02-22 17:34:34,credit limit question,low,Rem debitis libero voluptatum sed maxime quam quos error natus necessitatibus id porro animi repellendus labore occaecati ipsum ex facere nam.,in_progress
+CASE000125,CUST000085,2026-02-04 17:34:34,login problem,low,Exercitationem illum expedita perspiciatis non nemo officiis modi voluptatem eligendi eveniet magni quod ipsum aspernatur nostrum.,resolved
+CASE000126,CUST000875,2026-03-10 17:34:34,payment delay,low,Occaecati corporis cumque repellat excepturi occaecati nemo sed architecto cum dolorem et eos eaque officia earum ipsam sint facilis nesciunt vitae.,in_progress
+CASE000127,CUST000367,2026-02-26 17:34:34,credit limit question,high,Cumque sequi commodi doloremque dolorum quia quibusdam distinctio id atque vel labore amet quo minima voluptatum aut nulla assumenda ut.,closed
+CASE000128,CUST000169,2026-05-27 17:34:34,address change,low,Est dolorum eligendi occaecati consectetur saepe adipisci optio similique eveniet labore voluptate molestiae earum ipsam voluptas possimus debitis nisi.,resolved
+CASE000129,CUST000541,2026-03-13 17:34:34,fraud concern,low,Quibusdam soluta ipsa odit modi tenetur laboriosam dolorem at est impedit culpa ab minima quis consequatur enim modi porro laudantium quidem error quisquam reiciendis nisi.,closed
+CASE000130,CUST000101,2026-03-12 17:34:34,account closure request,high,Molestias deleniti sunt ipsa dolorum quaerat officia repudiandae dolore aspernatur.,in_progress
+CASE000131,CUST000301,2026-01-24 17:34:34,login problem,medium,Dolores quisquam tenetur rem placeat eligendi quia repellat impedit sequi delectus enim odio nulla earum numquam deleniti accusantium amet modi delectus aut eaque quaerat quas.,closed
+CASE000132,CUST000355,2026-02-07 17:34:34,fraud concern,low,At accusamus dolor in ratione libero fuga possimus adipisci aspernatur quibusdam corporis eaque hic molestiae delectus.,in_progress
+CASE000133,CUST000202,2025-12-07 17:34:34,account closure request,high,Repellendus repudiandae commodi quisquam dolorum quo ipsam qui alias itaque quo maxime voluptatem labore placeat est.,resolved
+CASE000134,CUST000880,2026-05-02 17:34:34,credit limit question,low,Culpa quas quia mollitia commodi laboriosam error facere amet pariatur voluptate doloremque ipsa accusamus recusandae nesciunt id doloribus.,closed
+CASE000135,CUST000999,2026-02-23 17:34:34,fraud concern,low,Neque porro porro culpa quo dolorum libero placeat excepturi voluptas quis.,closed
+CASE000136,CUST000975,2026-04-21 17:34:34,fraud concern,medium,Animi officia praesentium recusandae commodi doloremque voluptatem ratione quidem rem ipsa deserunt.,resolved
+CASE000137,CUST000358,2026-02-15 17:34:34,card dispute,medium,Facere consequatur tempore laborum ipsa eos possimus deleniti delectus expedita quasi eius rerum totam mollitia architecto culpa eos ea.,in_progress
+CASE000138,CUST000343,2025-12-03 17:34:34,fraud concern,low,Iste quod magni quasi sunt nulla facilis nulla eum aperiam voluptas reprehenderit deleniti placeat quisquam culpa eligendi illum eum.,closed
+CASE000139,CUST000615,2026-02-13 17:34:34,fraud concern,medium,Minima architecto saepe consectetur sit dicta laborum atque necessitatibus saepe omnis minima.,closed
+CASE000140,CUST000967,2026-01-04 17:34:34,payment delay,high,Ducimus facilis non architecto ut dignissimos laudantium suscipit aspernatur reiciendis aperiam nam vel impedit fuga provident reprehenderit eaque aliquam architecto esse velit vero atque.,open
+CASE000141,CUST000524,2026-02-05 17:34:34,address change,medium,Minus deleniti minima dolorum numquam debitis quibusdam impedit autem odit facere itaque pariatur sunt cumque debitis.,closed
+CASE000142,CUST000214,2026-01-30 17:34:34,card dispute,low,Magnam omnis modi nobis ut temporibus mollitia voluptatum sapiente impedit odio repudiandae eum dolores molestias fugiat mollitia quia facere.,open
+CASE000143,CUST000725,2026-05-21 17:34:34,fraud concern,low,Ipsum id quas voluptatem nisi maxime voluptatibus error error dolore sequi accusantium reprehenderit porro eius mollitia nam unde culpa alias explicabo.,open
+CASE000144,CUST000227,2025-12-24 17:34:34,address change,low,Eaque suscipit dolorum ducimus error necessitatibus necessitatibus dolor aspernatur eveniet laboriosam laborum tempore.,open
+CASE000145,CUST000418,2026-03-17 17:34:34,card dispute,low,Reprehenderit atque odit alias repellat fugit quod ullam ex sunt ipsa ut blanditiis quo quibusdam sed ut odio odio amet minima eum natus.,open
+CASE000146,CUST000077,2026-02-06 17:34:34,account closure request,low,Magnam dolore amet quasi hic ipsum nisi magnam dolore enim hic consequatur assumenda nemo aliquid id assumenda magnam.,resolved
+CASE000147,CUST000362,2026-05-27 17:34:34,login problem,high,Quis laboriosam dicta hic necessitatibus natus voluptatum minima doloribus eaque inventore placeat nemo.,open
+CASE000148,CUST000337,2026-03-30 17:34:34,card dispute,low,Perferendis incidunt expedita eum nisi ad esse voluptates nulla voluptatibus ipsam corporis aliquid.,in_progress
+CASE000149,CUST000267,2026-04-16 17:34:34,payment delay,low,Dicta fugiat quidem sequi beatae amet veniam unde sit reprehenderit accusamus possimus beatae ipsum ad distinctio.,resolved
+CASE000150,CUST000116,2026-02-26 17:34:34,card dispute,low,Distinctio molestias quibusdam molestias numquam voluptatibus possimus pariatur fugiat temporibus minima ducimus animi dicta possimus earum iure veniam architecto optio optio totam facere.,closed
+CASE000151,CUST000957,2025-12-10 17:34:34,fraud concern,medium,Accusantium sint officiis doloremque fugit voluptate aut et sint minus delectus magnam itaque.,resolved
+CASE000152,CUST000666,2026-05-12 17:34:34,credit limit question,medium,Aliquam ullam esse laudantium quia accusantium placeat explicabo esse voluptatum voluptatem.,in_progress
+CASE000153,CUST000599,2026-05-20 17:34:34,card dispute,low,Repellat numquam soluta tempora repellendus adipisci mollitia eius corrupti tempore omnis assumenda fugit vero nostrum numquam dolorem.,in_progress
+CASE000154,CUST000703,2026-03-15 17:34:34,credit limit question,low,Nemo incidunt est non ipsum consectetur officiis neque placeat dicta consequuntur porro tempore tenetur inventore tenetur.,resolved
+CASE000155,CUST000338,2026-03-01 17:34:34,login problem,low,Omnis natus culpa architecto minus quaerat delectus saepe corporis adipisci eum voluptate vero esse.,in_progress
+CASE000156,CUST000696,2026-05-27 17:34:34,payment delay,high,Corrupti deleniti consectetur ad voluptates nulla non nostrum nisi doloremque ad aspernatur quod consequatur sapiente iusto officiis.,open
+CASE000157,CUST000423,2026-02-02 17:34:34,account closure request,medium,Sequi laudantium consequuntur deserunt adipisci quisquam accusamus earum impedit quia voluptates quidem architecto unde.,closed
+CASE000158,CUST000468,2026-04-28 17:34:34,card dispute,medium,Sint laudantium eveniet itaque doloribus illo aliquam quasi fugit est nostrum quia nisi minima soluta ratione maxime iste repudiandae aliquam.,open
+CASE000159,CUST000659,2026-05-26 17:34:34,credit limit question,low,Maxime id quasi nam maiores occaecati aliquid enim id esse repudiandae itaque in nostrum amet maxime.,resolved
+CASE000160,CUST000641,2026-03-12 17:34:34,credit limit question,medium,Iure officia at magnam debitis nesciunt tempora molestias hic eum ad iste tempore tempore.,open
+CASE000161,CUST000023,2026-02-21 17:34:34,card dispute,low,At eum officiis quae cum quasi at provident odio assumenda provident quas voluptate nostrum cum mollitia aliquam cupiditate excepturi sit sint.,in_progress
+CASE000162,CUST000215,2026-01-18 17:34:34,login problem,medium,Sit debitis quae in est quisquam ipsum occaecati blanditiis consectetur dicta numquam ducimus itaque.,open
+CASE000163,CUST000518,2026-05-13 17:34:34,address change,medium,Molestiae ab sunt dolores nihil labore illum aspernatur nobis doloribus molestias nulla nam repudiandae aliquid corporis officiis alias sequi pariatur saepe error.,in_progress
+CASE000164,CUST000775,2026-04-16 17:34:34,payment delay,low,Aliquid impedit debitis perferendis nostrum porro nisi ratione debitis iste neque ut.,open
+CASE000165,CUST000656,2026-03-18 17:34:34,card dispute,low,Quisquam eum tempore reprehenderit quis sapiente aperiam iusto commodi similique eveniet impedit.,resolved
+CASE000166,CUST000181,2026-02-13 17:34:34,account closure request,low,Possimus nostrum autem quas occaecati voluptates laborum porro ut voluptates enim non et minima voluptatum.,closed
+CASE000167,CUST000795,2026-04-30 17:34:34,account closure request,low,Unde nostrum libero quas libero repellat sunt doloremque enim deserunt blanditiis iure reiciendis qui dignissimos nostrum impedit aliquid.,resolved
+CASE000168,CUST000892,2026-02-21 17:34:34,login problem,low,Nam odit accusamus dicta eligendi ratione est magni eum ab placeat exercitationem quam nulla adipisci cupiditate ex excepturi.,closed
+CASE000169,CUST000233,2026-04-24 17:34:34,fraud concern,low,Totam reiciendis officia laboriosam occaecati tempora modi ex quos impedit quia rerum error quam et modi dignissimos placeat reiciendis suscipit explicabo.,closed
+CASE000170,CUST000764,2026-04-28 17:34:34,payment delay,medium,Eligendi adipisci voluptates occaecati sapiente necessitatibus harum nisi sint quibusdam provident et adipisci impedit.,open
+CASE000171,CUST000188,2026-04-09 17:34:34,address change,medium,Soluta fuga repudiandae esse minima cupiditate fugiat alias dicta at magni reiciendis temporibus culpa excepturi laboriosam soluta est eveniet quo atque voluptatem.,closed
+CASE000172,CUST000404,2026-01-06 17:34:34,address change,medium,Perspiciatis consequatur quam itaque quae minima a ut porro nisi assumenda iure aliquid maxime omnis est neque est tempora eum deserunt eius.,closed
+CASE000173,CUST000482,2026-05-12 17:34:34,fraud concern,low,Quo perferendis earum culpa beatae vero nam aut molestiae molestias earum velit rem nemo cupiditate est tempora molestiae.,closed
+CASE000174,CUST000566,2025-12-15 17:34:34,payment delay,medium,Consectetur iusto perferendis autem amet incidunt debitis nisi nihil saepe praesentium.,closed
+CASE000175,CUST000224,2026-03-01 17:34:34,card dispute,high,Explicabo ex dicta quis repellat aspernatur ullam quisquam necessitatibus at rem praesentium atque est officia quisquam iusto veniam corporis tempore ducimus facilis delectus totam.,in_progress
+CASE000176,CUST000227,2026-01-21 17:34:34,card dispute,low,Ratione sunt iste adipisci labore expedita itaque cupiditate quisquam non consectetur aut repellendus reiciendis eveniet officiis recusandae minus.,open
+CASE000177,CUST000135,2026-03-30 17:34:34,payment delay,medium,Nihil dolores doloribus culpa laboriosam architecto dignissimos possimus inventore voluptatem necessitatibus exercitationem possimus cupiditate pariatur qui quae saepe beatae.,in_progress
+CASE000178,CUST000852,2026-02-15 17:34:34,payment delay,medium,Iure nam reprehenderit debitis veritatis architecto autem repellendus quo fugiat laudantium optio at repellendus suscipit temporibus odio a corporis corrupti minus harum neque deserunt.,resolved
+CASE000179,CUST000235,2026-04-09 17:34:34,fraud concern,low,Error recusandae perspiciatis ullam vel quaerat totam voluptatibus nesciunt nostrum magni sed sequi aperiam tempore voluptas a nam.,in_progress
+CASE000180,CUST000506,2026-05-16 17:34:34,fraud concern,medium,Autem eligendi adipisci inventore nihil numquam quae illo ipsa distinctio cupiditate consequuntur nam sapiente facere impedit enim sit.,closed
+CASE000181,CUST000370,2025-12-07 17:34:34,account closure request,low,Consequatur asperiores accusamus quam laborum ipsa voluptatibus assumenda odit impedit iste ratione non.,resolved
+CASE000182,CUST000311,2026-02-10 17:34:34,payment delay,low,Numquam iste incidunt reprehenderit harum dolorem incidunt ab libero quasi quae earum unde nemo alias alias laboriosam fuga neque vitae.,resolved
+CASE000183,CUST000118,2026-03-16 17:34:34,card dispute,low,Consequuntur quasi voluptates voluptates quod iure aspernatur suscipit at iusto qui vero.,resolved
+CASE000184,CUST000033,2026-02-08 17:34:34,login problem,low,Placeat molestiae neque nostrum temporibus modi ab iste temporibus nemo ex explicabo.,in_progress
+CASE000185,CUST000433,2026-02-16 17:34:34,account closure request,medium,Enim alias ullam quibusdam quas natus aperiam labore cumque amet voluptatibus repellat numquam enim assumenda magni sed.,resolved
+CASE000186,CUST000942,2026-04-26 17:34:34,fraud concern,medium,Dolorum nulla eius ducimus qui nobis tenetur qui omnis fuga cupiditate quos doloremque debitis minima alias voluptates.,closed
+CASE000187,CUST000342,2026-03-10 17:34:34,account closure request,low,Nisi reprehenderit saepe quidem impedit fugit optio quas cumque neque sapiente amet eaque reprehenderit.,open
+CASE000188,CUST000116,2025-12-05 17:34:34,card dispute,medium,Cumque id error quia quibusdam minus fugit provident labore corporis sit.,closed
+CASE000189,CUST000052,2026-01-03 17:34:34,fraud concern,low,Enim reiciendis fugit et minus veritatis atque minus explicabo sapiente.,open
+CASE000190,CUST000145,2026-02-10 17:34:34,credit limit question,high,Ullam similique ex eaque atque omnis hic quo quibusdam quasi nihil deserunt excepturi porro debitis molestias perferendis rerum accusamus atque aut ipsum dolor eligendi.,open
+CASE000191,CUST000757,2026-05-18 17:34:34,login problem,low,Alias nulla animi nisi tempora dolor nobis commodi vero assumenda non fugiat quisquam officia rem.,in_progress
+CASE000192,CUST000046,2026-01-06 17:34:34,payment delay,low,Tempore possimus ducimus iure vel odit ullam eius incidunt temporibus quo eum cum asperiores.,resolved
+CASE000193,CUST000656,2026-01-27 17:34:34,address change,medium,Fugit ex animi veritatis eaque ipsam laudantium ut nostrum debitis laudantium corporis.,open
+CASE000194,CUST000937,2026-02-16 17:34:34,card dispute,medium,Dolor officia totam quaerat aut asperiores necessitatibus dolorum ipsum tempore corrupti odit ut optio eaque praesentium temporibus nemo maiores velit.,resolved
+CASE000195,CUST000439,2025-12-10 17:34:34,account closure request,low,Laboriosam illo quas repellat architecto dolorem fugit porro quod commodi modi voluptatibus ex esse animi voluptatum officia facilis sequi excepturi sapiente.,resolved
+CASE000196,CUST000723,2025-12-04 17:34:34,credit limit question,low,Officia debitis aliquam fugit deleniti possimus tempore occaecati facere assumenda odio quasi consequuntur deserunt quaerat nihil laudantium.,in_progress
+CASE000197,CUST000483,2025-12-20 17:34:34,card dispute,low,Recusandae officia libero vitae repellat vitae accusamus excepturi excepturi quam illo distinctio.,closed
+CASE000198,CUST000569,2026-04-24 17:34:34,login problem,low,Itaque perspiciatis soluta corrupti neque unde alias consequuntur officiis iusto ullam aliquid praesentium consectetur cupiditate amet esse recusandae itaque cupiditate nihil repellendus.,in_progress
+CASE000199,CUST000623,2026-04-08 17:34:34,credit limit question,medium,Beatae nisi nulla aperiam dicta excepturi saepe qui illo blanditiis placeat molestias eum.,open
+CASE000200,CUST000309,2026-02-22 17:34:34,login problem,low,Quisquam nihil excepturi blanditiis consequuntur impedit possimus mollitia ipsa unde aliquam aut sed nostrum quod.,closed
+CASE000201,CUST000845,2026-03-29 17:34:34,login problem,low,Sunt aspernatur ab unde provident nisi eligendi possimus recusandae labore consectetur.,resolved
+CASE000202,CUST000736,2026-04-19 17:34:34,credit limit question,high,Odit minima illum vel nostrum alias debitis libero veniam occaecati quos expedita a doloremque.,open
+CASE000203,CUST000143,2026-01-15 17:34:34,address change,high,Voluptates voluptate nulla sint voluptates magni iure occaecati dignissimos amet beatae corrupti sapiente.,resolved
+CASE000204,CUST000755,2026-01-04 17:34:34,account closure request,high,Libero cum ullam amet facilis distinctio dolorum nulla suscipit iste autem amet modi culpa adipisci maiores architecto doloremque ipsam neque in.,resolved
+CASE000205,CUST000453,2026-03-15 17:34:34,credit limit question,low,Dolorem beatae dolorem dolores impedit dicta tempora asperiores nesciunt amet ipsa dolor non debitis fuga itaque deserunt facere.,open
+CASE000206,CUST000137,2026-02-25 17:34:34,credit limit question,high,Dicta consectetur porro animi consequatur sequi itaque cupiditate exercitationem suscipit nobis ratione odit nostrum cumque voluptas.,in_progress
+CASE000207,CUST000970,2026-04-18 17:34:34,account closure request,low,Assumenda sequi laudantium voluptatum nihil saepe eius quas quasi doloribus eveniet neque tempora nihil corrupti nemo.,in_progress
+CASE000208,CUST000835,2026-01-24 17:34:34,credit limit question,low,In aliquid voluptatibus quasi magnam incidunt hic repellat possimus atque.,in_progress
+CASE000209,CUST000579,2026-02-11 17:34:34,address change,medium,Dolores nam accusamus quasi veniam consequatur eos officia at laboriosam esse provident similique quibusdam ad iste quo soluta illo ratione fuga iure.,in_progress
+CASE000210,CUST000247,2025-12-19 17:34:34,credit limit question,low,Similique architecto tempora ex adipisci incidunt earum veniam molestiae recusandae.,resolved
+CASE000211,CUST000769,2026-03-18 17:34:34,card dispute,medium,Nulla excepturi ut maiores tenetur facilis amet fugit iure aliquam facilis officia.,open
+CASE000212,CUST000378,2026-03-19 17:34:34,credit limit question,medium,Natus quo consequuntur ex molestiae officiis qui quibusdam sit praesentium quidem quis.,open
+CASE000213,CUST000832,2025-12-05 17:34:34,account closure request,low,Explicabo eaque perspiciatis eius aperiam exercitationem laborum minima commodi quae perspiciatis minus eos numquam reiciendis veniam repellat velit.,closed
+CASE000214,CUST000892,2026-01-28 17:34:34,login problem,medium,Deleniti sunt assumenda hic debitis vero aspernatur cum beatae corporis corrupti dignissimos.,open
+CASE000215,CUST000776,2026-05-09 17:34:34,credit limit question,high,Ad impedit placeat ut labore in qui accusantium deleniti ad reiciendis rerum maxime excepturi neque omnis ratione laborum pariatur minus molestias itaque necessitatibus tempore esse.,in_progress
+CASE000216,CUST000357,2025-12-09 17:34:34,account closure request,high,Dolorem fuga enim sapiente corporis eligendi vero nulla cum modi delectus cupiditate provident temporibus recusandae cum.,open
+CASE000217,CUST000537,2026-02-05 17:34:34,card dispute,medium,Aliquam et consectetur ea delectus natus alias et exercitationem fuga molestiae cum error.,in_progress
+CASE000218,CUST000074,2026-04-10 17:34:34,credit limit question,medium,Illo libero corporis itaque eum a qui voluptate ex provident labore.,open
+CASE000219,CUST000398,2026-02-21 17:34:34,login problem,medium,Voluptas quidem voluptatibus pariatur reiciendis quas ullam excepturi beatae laboriosam aliquam perspiciatis blanditiis ad nulla dolore facere.,resolved
+CASE000220,CUST000557,2025-12-26 17:34:34,account closure request,medium,Animi odit nesciunt dolore vel eius ad modi ipsum perferendis assumenda maiores deserunt et non velit tenetur facere.,open
+CASE000221,CUST000284,2026-03-29 17:34:34,fraud concern,medium,Quaerat incidunt harum accusamus exercitationem est ipsum natus dolor suscipit qui impedit ipsam cum.,closed
+CASE000222,CUST000750,2025-12-21 17:34:34,fraud concern,low,Quas impedit saepe nisi corporis esse voluptates minima excepturi ut nihil fugiat ab odit earum cupiditate iure necessitatibus totam dicta.,open
+CASE000223,CUST000016,2026-04-21 17:34:34,credit limit question,low,Enim laudantium reprehenderit error nesciunt laudantium qui dolore recusandae culpa error odit odio commodi pariatur enim debitis tenetur officia.,open
+CASE000224,CUST000813,2026-03-04 17:34:34,account closure request,low,Blanditiis eius voluptatibus architecto quia neque natus sit occaecati labore possimus.,in_progress
+CASE000225,CUST000307,2025-12-07 17:34:34,credit limit question,medium,Fuga quasi accusantium ea neque corporis itaque possimus facere amet facere odio veritatis.,closed
+CASE000226,CUST000933,2026-04-15 17:34:34,login problem,low,Enim minus vel maiores quisquam delectus atque quibusdam molestiae sit repudiandae.,resolved
+CASE000227,CUST000003,2026-05-12 17:34:34,fraud concern,low,Earum praesentium facere modi expedita corporis consequatur eligendi quod illum ullam cum dolor magnam rerum recusandae nam.,in_progress
+CASE000228,CUST000130,2025-12-27 17:34:34,credit limit question,medium,Sapiente quae praesentium rem impedit totam blanditiis consectetur accusantium expedita porro consequuntur ipsam voluptates minima voluptas cupiditate esse quia blanditiis consectetur possimus.,resolved
+CASE000229,CUST000349,2026-04-25 17:34:34,payment delay,medium,Esse distinctio voluptatem incidunt quis beatae accusantium laborum inventore deserunt adipisci optio nihil iusto tenetur aliquam.,open
+CASE000230,CUST000677,2025-11-30 17:34:34,address change,high,Pariatur quidem quos ullam dignissimos temporibus delectus expedita at sapiente velit veniam expedita cum magnam quas doloribus.,in_progress
+CASE000231,CUST000742,2026-02-12 17:34:34,credit limit question,medium,Architecto reprehenderit quis minus quaerat vitae cupiditate quidem a quas unde ullam sed labore praesentium delectus perferendis autem rerum voluptatem incidunt maiores illum.,resolved
+CASE000232,CUST000533,2026-05-26 17:34:34,login problem,medium,Commodi beatae consequatur quis provident nam aliquam eveniet blanditiis eligendi nobis est voluptate ipsam mollitia enim sequi deleniti.,open
+CASE000233,CUST000716,2026-05-01 17:34:34,card dispute,medium,Tempora rem vel facilis accusamus perferendis perferendis id minima perspiciatis blanditiis hic.,in_progress
+CASE000234,CUST000392,2025-12-18 17:34:34,login problem,high,Voluptate qui tempora cumque facilis dicta dicta sapiente illo doloremque incidunt libero quisquam quisquam nisi quidem reiciendis velit explicabo pariatur veniam voluptates maiores corporis.,resolved
+CASE000235,CUST000729,2026-02-14 17:34:34,card dispute,low,Autem dolorum libero occaecati consequatur aut amet architecto perspiciatis voluptas fugit perspiciatis corrupti numquam atque asperiores quibusdam quisquam recusandae dicta optio.,resolved
+CASE000236,CUST000623,2026-03-07 17:34:34,card dispute,low,Magnam molestiae repellat molestiae accusantium quisquam voluptatibus sunt blanditiis ipsum sequi ipsam alias debitis optio quod suscipit cum inventore est harum.,in_progress
+CASE000237,CUST000309,2026-05-03 17:34:34,payment delay,medium,Necessitatibus laudantium mollitia molestiae iusto natus culpa animi ea nihil fugiat perspiciatis quisquam.,in_progress
+CASE000238,CUST000369,2026-05-19 17:34:34,login problem,low,Eum adipisci aliquid saepe expedita quia ad tempora exercitationem atque exercitationem facere expedita optio dolorum officia nihil.,open
+CASE000239,CUST000872,2026-01-27 17:34:34,address change,medium,Sit beatae cumque modi alias omnis in maiores in accusantium iusto ad.,in_progress
+CASE000240,CUST000007,2025-12-25 17:34:34,card dispute,high,Fugiat hic nemo repellat aut perferendis excepturi magnam quisquam excepturi nostrum facilis ipsa libero sed ratione saepe modi.,closed
+CASE000241,CUST000990,2026-04-15 17:34:34,card dispute,high,Eaque error nemo rem numquam vero quaerat neque nihil earum necessitatibus minus incidunt expedita asperiores reprehenderit magnam.,resolved
+CASE000242,CUST000232,2025-12-02 17:34:34,address change,low,Inventore molestiae dicta illo numquam iste quis debitis accusantium provident sint nemo distinctio vitae quia iusto vel.,resolved
+CASE000243,CUST000109,2026-01-07 17:34:34,payment delay,high,Repellat sequi tenetur vel quas animi dicta iure dolores quia quisquam sapiente illum similique tenetur odio sapiente eaque enim cum porro doloremque dolores.,closed
+CASE000244,CUST000947,2026-02-21 17:34:34,account closure request,low,Deleniti doloribus repudiandae iure nam ipsa officia alias cum consequatur ea rem omnis debitis.,open
+CASE000245,CUST000451,2026-02-14 17:34:34,card dispute,low,Vitae laborum accusantium similique assumenda nobis sint tempore illum facilis omnis.,open
+CASE000246,CUST000836,2026-02-06 17:34:34,credit limit question,low,Id saepe sapiente doloremque necessitatibus magnam blanditiis optio neque quod minima libero.,open
+CASE000247,CUST000249,2026-04-21 17:34:34,address change,high,Dolores commodi rem eveniet nesciunt harum quibusdam doloremque in corporis cupiditate voluptas.,closed
+CASE000248,CUST000463,2026-02-26 17:34:34,address change,low,Illum sint animi modi praesentium beatae molestias labore doloribus eius quos corporis labore facilis est officia temporibus alias qui reiciendis.,in_progress
+CASE000249,CUST000473,2026-05-19 17:34:34,login problem,medium,Porro ratione dolores mollitia est vero facilis repellat commodi sint similique.,open
+CASE000250,CUST000927,2026-01-27 17:34:34,account closure request,low,Ab vero unde ullam error vel quidem error similique cum ipsa et repellat officia ratione earum aspernatur quod laudantium.,closed
+CASE000251,CUST000717,2026-05-17 17:34:34,login problem,low,Unde ex in ullam aut cum ea architecto in quas molestias eveniet possimus quis odit delectus ipsam odit a dicta.,open
+CASE000252,CUST000751,2026-02-20 17:34:34,card dispute,low,Et aspernatur culpa maiores voluptas rerum quis sed placeat recusandae eum laboriosam quasi ea porro repudiandae reiciendis.,in_progress
+CASE000253,CUST000472,2026-04-10 17:34:34,card dispute,low,Assumenda facilis hic fugiat rerum necessitatibus accusantium ad nam nostrum dolorem at iure ea sequi.,in_progress
+CASE000254,CUST000511,2026-03-10 17:34:34,payment delay,medium,Id inventore ea at facilis veniam blanditiis quaerat ipsa ullam iste.,resolved
+CASE000255,CUST000270,2026-01-16 17:34:34,credit limit question,medium,Blanditiis quae deleniti similique quos enim laudantium consectetur sequi nobis voluptatum eligendi perspiciatis in illum corporis enim ea nulla tenetur fuga placeat.,closed
+CASE000256,CUST000464,2026-04-15 17:34:34,credit limit question,low,Assumenda iusto sit voluptate id distinctio fugit incidunt nisi asperiores nam amet ut iusto explicabo non perferendis rem quae repellat a.,in_progress
+CASE000257,CUST000782,2026-05-16 17:34:34,payment delay,low,Nulla esse hic fuga voluptas nam neque ea magnam ut soluta consequatur et minus consequuntur blanditiis aliquid consectetur sit rerum quibusdam unde.,resolved
+CASE000258,CUST000383,2026-03-04 17:34:34,address change,medium,Temporibus ea repudiandae unde maxime ipsa cumque qui laudantium veniam nam ullam odio ipsam deleniti amet delectus.,closed
+CASE000259,CUST000015,2026-01-03 17:34:34,credit limit question,low,Ea provident ipsa voluptatum unde aliquam explicabo quae laborum laudantium sapiente sint commodi atque sit debitis cumque magni earum tempora nesciunt.,closed
+CASE000260,CUST000454,2026-05-12 17:34:34,account closure request,low,Voluptatum a quisquam debitis ullam doloribus libero atque eveniet eligendi voluptatem commodi fuga ut autem eum adipisci itaque provident laboriosam occaecati earum omnis eveniet.,resolved
+CASE000261,CUST000139,2026-01-24 17:34:34,payment delay,low,Omnis veritatis eveniet quasi quasi vero necessitatibus distinctio aliquid officia eum.,in_progress
+CASE000262,CUST000881,2026-05-25 17:34:34,payment delay,low,Quia molestias nobis at ducimus dolores quo id accusantium dignissimos harum illo.,resolved
+CASE000263,CUST000532,2026-04-03 17:34:34,address change,medium,Blanditiis laudantium inventore rem est placeat consectetur pariatur rerum maiores laudantium suscipit labore natus.,closed
+CASE000264,CUST000323,2025-12-04 17:34:34,fraud concern,high,At in fuga delectus occaecati at maiores voluptate perspiciatis officia quae ut minima officia assumenda iusto aspernatur reiciendis error voluptates.,closed
+CASE000265,CUST000860,2026-05-20 17:34:34,fraud concern,low,Sapiente minima eos aliquid asperiores aliquid autem incidunt atque optio necessitatibus ducimus ducimus aspernatur magnam beatae optio.,closed
+CASE000266,CUST000967,2025-12-29 17:34:34,credit limit question,medium,Ratione sapiente aliquid impedit provident et quam quidem ipsum repellat exercitationem ullam repellat distinctio.,in_progress
+CASE000267,CUST000441,2026-04-10 17:34:34,fraud concern,low,Quia nobis sit autem modi ab blanditiis cupiditate labore porro sit vitae.,open
+CASE000268,CUST000125,2026-05-07 17:34:34,address change,high,Quas esse repellat nulla porro vitae perferendis rem assumenda consequatur deleniti repellendus possimus deleniti ad laboriosam corporis doloribus sapiente similique molestiae assumenda quo corporis.,closed
+CASE000269,CUST000724,2025-12-22 17:34:34,credit limit question,medium,Accusantium cumque corrupti praesentium vitae iusto similique nesciunt dicta necessitatibus rerum amet ab occaecati quae voluptatem sed qui nisi mollitia.,open
+CASE000270,CUST000787,2026-05-12 17:34:34,address change,low,Alias id maiores quam vel temporibus sint doloremque aperiam accusantium nemo mollitia eaque officia suscipit blanditiis numquam.,resolved
+CASE000271,CUST000213,2026-04-08 17:34:34,login problem,low,Ipsum ipsa cum quas iusto ipsa magni nesciunt placeat ullam sequi quaerat iusto sunt quam hic impedit velit.,open
+CASE000272,CUST000520,2026-03-12 17:34:34,account closure request,medium,Recusandae reiciendis sapiente numquam eligendi quibusdam pariatur consectetur dicta non aut impedit voluptatibus esse distinctio aliquid accusantium sunt explicabo.,resolved
+CASE000273,CUST000999,2026-01-09 17:34:34,payment delay,low,Cupiditate similique magnam rem excepturi beatae dolorem natus laborum voluptatibus quos quo quo nam.,closed
+CASE000274,CUST000098,2025-12-24 17:34:34,card dispute,low,Sequi soluta nobis aut amet veniam reiciendis vitae quidem voluptate quos non similique aut.,open
+CASE000275,CUST000575,2025-12-10 17:34:34,address change,medium,Aliquam autem occaecati sit tenetur culpa eos ipsam magni quasi aut officia ex consequuntur sed ipsa impedit quisquam doloribus repellat exercitationem magnam assumenda.,resolved
+CASE000276,CUST000715,2026-02-10 17:34:34,fraud concern,low,Quaerat impedit occaecati doloribus quidem minus ratione consequuntur inventore ullam tempore veritatis maiores placeat velit ipsam quo quaerat maxime.,closed
+CASE000277,CUST000287,2026-05-26 17:34:34,login problem,low,Assumenda et voluptatem cum aperiam quis optio odit temporibus animi occaecati quae.,resolved
+CASE000278,CUST000363,2026-04-20 17:34:34,payment delay,medium,Voluptate in suscipit praesentium sit quam et exercitationem repudiandae tempore nostrum corporis illo officia suscipit numquam nulla ipsam exercitationem repellat officiis quod.,open
+CASE000279,CUST000122,2026-04-06 17:34:34,address change,low,Assumenda modi harum quaerat sunt maxime molestiae distinctio maiores est exercitationem odio ad tempora molestiae ea rerum.,resolved
+CASE000280,CUST000809,2026-03-14 17:34:34,address change,medium,Quas voluptates beatae animi fuga occaecati explicabo aliquid officiis commodi error qui iste voluptatem rem voluptates natus.,closed
+CASE000281,CUST000032,2026-01-11 17:34:34,login problem,medium,Pariatur sapiente doloremque error pariatur repellendus nemo consequuntur fugiat qui autem maiores deserunt quod iste corporis incidunt illum at incidunt consectetur dolor aspernatur perspiciatis illo.,closed
+CASE000282,CUST000910,2025-12-13 17:34:34,card dispute,high,Maxime hic ea libero incidunt ipsam ut laudantium voluptate reprehenderit corporis consectetur quae consectetur provident sint blanditiis distinctio labore quia velit fuga veritatis.,resolved
+CASE000283,CUST000929,2026-02-21 17:34:34,credit limit question,medium,Sequi beatae fuga enim minima blanditiis esse fugiat eos adipisci corporis quos in vel esse eligendi delectus qui a molestias architecto aliquid laboriosam est.,in_progress
+CASE000284,CUST000148,2026-04-05 17:34:34,card dispute,low,Tempore quos labore quam non quis magnam itaque ipsum ipsum sint eveniet reiciendis optio illum doloremque hic molestiae vero suscipit quasi.,open
+CASE000285,CUST000099,2026-03-11 17:34:34,card dispute,medium,Sint provident nemo recusandae provident natus commodi nam deserunt nulla nemo amet.,closed
+CASE000286,CUST000086,2026-05-15 17:34:34,credit limit question,medium,Maxime quibusdam magnam accusantium omnis minus vitae eius dignissimos rerum saepe neque assumenda modi eum nihil laudantium ut excepturi debitis ad minus fugit.,open
+CASE000287,CUST000311,2026-05-18 17:34:34,login problem,low,Beatae aut cumque corporis ducimus at esse illum cumque nostrum eveniet ad.,resolved
+CASE000288,CUST000786,2026-03-08 17:34:34,payment delay,low,Error atque consequuntur tempora ducimus velit tempore amet dolores nisi dolores magni.,in_progress
+CASE000289,CUST000417,2026-02-23 17:34:34,address change,low,Harum beatae aperiam iure illum laborum illum doloremque suscipit eaque vitae perferendis doloribus mollitia quos esse illum assumenda odio dignissimos voluptas fuga.,resolved
+CASE000290,CUST000136,2026-05-20 17:34:34,account closure request,low,Quos modi incidunt tenetur iste a iure repudiandae enim voluptas a ut laboriosam nisi.,in_progress
+CASE000291,CUST000807,2026-04-14 17:34:34,address change,high,Voluptatum sapiente distinctio sapiente eligendi cum modi architecto at praesentium rerum quam voluptatum soluta distinctio magnam reiciendis sunt veniam.,in_progress
+CASE000292,CUST000336,2025-12-18 17:34:34,credit limit question,medium,Voluptatem provident earum optio eum distinctio vero eveniet totam consequatur ullam non a ab cupiditate nam.,resolved
+CASE000293,CUST000636,2026-03-04 17:34:34,account closure request,low,Quis modi ratione officiis aspernatur adipisci rerum perferendis perferendis explicabo repellat repudiandae facere debitis quisquam possimus ab iure vel ipsam dolore.,resolved
+CASE000294,CUST000462,2026-02-11 17:34:34,payment delay,medium,Quis perspiciatis quae deleniti repellendus numquam repellat dolore voluptatem voluptas alias.,open
+CASE000295,CUST000774,2025-12-28 17:34:34,login problem,low,Temporibus provident distinctio deserunt reprehenderit id sit necessitatibus laudantium mollitia optio natus placeat natus aperiam consectetur aperiam ea necessitatibus dolorem minima quos.,resolved
+CASE000296,CUST000557,2026-02-12 17:34:34,login problem,low,Sed ad voluptas perspiciatis nostrum perspiciatis sunt a incidunt perferendis officiis sequi eum sapiente illum.,closed
+CASE000297,CUST000229,2026-05-08 17:34:34,payment delay,low,Perspiciatis iure facere quis sunt dolore eius in ipsum a deserunt aspernatur nemo.,closed
+CASE000298,CUST000006,2026-03-18 17:34:34,card dispute,medium,Voluptatibus dolorem porro vero totam deserunt eveniet aperiam numquam adipisci inventore.,closed
+CASE000299,CUST000115,2026-01-08 17:34:34,card dispute,low,Nihil numquam ex dolorum autem dolores exercitationem amet ex recusandae velit.,in_progress
+CASE000300,CUST000766,2026-02-09 17:34:34,card dispute,medium,Nulla quisquam numquam neque assumenda aperiam alias et sed aperiam consectetur ullam ipsam error numquam aperiam perspiciatis nam eos fugit atque quibusdam doloremque nobis.,open

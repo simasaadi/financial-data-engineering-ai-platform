@@ -1,0 +1,22 @@
+project:
+  name: financial-data-engineering-ai-platform
+  environment: local
+
+paths:
+  raw: data/raw
+  bronze: data/bronze
+  silver: data/silver
+  gold: data/gold
+  ml_features: data/ml_features
+  metadata: data/metadata
+  duckdb: data/financial_platform.duckdb
+
+pipeline:
+  batch_size: 10000
+  fail_on_quality_error: false
+
+quality:
+  minimum_customer_id_completeness: 0.99
+  minimum_transaction_id_completeness: 0.995
+  maximum_duplicate_transaction_rate: 0.001
+  maximum_negative_balance_rate: 0.005

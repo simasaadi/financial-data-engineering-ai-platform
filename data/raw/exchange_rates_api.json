@@ -1,0 +1,962 @@
+[
+  {
+    "rate_date": "2026-05-27",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3554,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-27",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4968,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-27",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7398,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-27",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 1.0072,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-26",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3447,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-26",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.464,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-26",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7452,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-26",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 1.0182,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-25",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3628,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-25",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4809,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-25",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7522,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-25",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 0.9959,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-24",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.354,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-24",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4809,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-24",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7211,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-24",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 1.0121,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-23",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.339,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-23",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4914,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-23",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7474,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-23",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 0.9891,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-22",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3795,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-22",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4907,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-22",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7089,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-22",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 0.9818,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-21",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3452,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-21",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4847,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-21",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7146,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-21",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 1.0041,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-20",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.384,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-20",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.5002,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-20",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7224,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-20",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 1.001,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-19",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3421,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-19",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4831,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-19",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7479,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-19",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 0.9752,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-18",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3638,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-18",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4685,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-18",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7161,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-18",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 1.0206,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-17",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3391,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-17",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4758,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-17",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7341,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-17",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 0.9909,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-16",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3674,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-16",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4761,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-16",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7486,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-16",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 1.0196,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-15",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3689,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-15",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4929,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-15",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7393,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-15",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 1.0066,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-14",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3483,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-14",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4931,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-14",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7071,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-14",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 1.0025,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-13",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3649,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-13",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.503,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-13",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7437,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-13",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 0.9782,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-12",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3771,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-12",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4651,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-12",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7364,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-12",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 1.0027,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-11",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3437,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-11",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.478,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-11",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7414,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-11",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 0.9965,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-10",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3833,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-10",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4878,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-10",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7241,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-10",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 0.9957,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-09",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3668,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-09",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4751,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-09",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7242,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-09",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 1.0136,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-08",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.344,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-08",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4846,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-08",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7514,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-08",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 1.0027,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-07",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.384,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-07",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4631,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-07",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7376,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-07",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 0.9909,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-06",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.38,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-06",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4702,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-06",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7261,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-06",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 0.9911,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-05",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3722,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-05",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.474,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-05",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7067,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-05",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 1.0099,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-04",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3737,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-04",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4885,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-04",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7473,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-04",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 1.0201,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-03",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3662,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-03",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4826,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-03",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7404,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-03",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 1.0106,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-02",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3528,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-02",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4822,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-02",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7358,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-02",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 1.0084,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-01",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3553,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-01",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4948,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-01",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7312,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-05-01",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 1.0236,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-04-30",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3499,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-04-30",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.4581,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-04-30",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.719,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-04-30",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 0.9807,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-04-29",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3613,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-04-29",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.5002,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-04-29",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7059,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-04-29",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 0.9841,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-04-28",
+    "base_currency": "CAD",
+    "target_currency": "USD",
+    "exchange_rate": 1.3771,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-04-28",
+    "base_currency": "CAD",
+    "target_currency": "EUR",
+    "exchange_rate": 1.466,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-04-28",
+    "base_currency": "CAD",
+    "target_currency": "GBP",
+    "exchange_rate": 1.7387,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  },
+  {
+    "rate_date": "2026-04-28",
+    "base_currency": "CAD",
+    "target_currency": "CAD",
+    "exchange_rate": 1.0052,
+    "source_system": "synthetic_exchange_rate_api",
+    "loaded_at": "2026-05-27 17:34:34"
+  }
+]

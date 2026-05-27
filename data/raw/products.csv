@@ -1,0 +1,9 @@
+product_id,product_name,product_type,business_domain
+PRD001,chequing_account,deposit,core_banking
+PRD002,savings_account,deposit,core_banking
+PRD003,credit_card_cashback,credit_card,cards
+PRD004,credit_card_travel,credit_card,cards
+PRD005,personal_loan,loan,lending
+PRD006,line_of_credit,loan,lending
+PRD007,mortgage,loan,lending
+PRD008,investment_account,investment,wealth
