@@ -1,46 +1,20 @@
 """
 Streamlit monitoring dashboard for the financial data engineering platform.
 
-The dashboard shows:
-- pipeline layer outputs
-- data quality dashboard
-- AI-assisted triage results
-- customer 360 mart
-- product performance mart
-- ML-ready customer risk features
+This deployment-safe version reads committed pipeline output files directly
+from data/gold, data/ml_features, and data/metadata.
+
+It does not need to rebuild DuckDB on Streamlit Cloud.
 """
 
 from __future__ import annotations
 
 from pathlib import Path
-import subprocess
-import sys
 
 import duckdb
 import pandas as pd
 import plotly.express as px
 import streamlit as st
-
-
-DUCKDB_PATH = Path("data/financial_platform.duckdb")
-
-
-def ensure_database_ready() -> None:
-    if DUCKDB_PATH.exists():
-        return
-
-    with st.spinner("Building demo DuckDB database from synthetic pipeline outputs..."):
-        result = subprocess.run(
-            [sys.executable, "src/orchestration/run_pipeline.py"],
-            text=True,
-            capture_output=True,
-        )
-
-        if result.returncode != 0:
-            st.error("Pipeline failed while preparing the dashboard database.")
-            st.code(result.stdout)
-            st.code(result.stderr)
-            st.stop()
 
 
 st.set_page_config(
@@ -50,67 +24,106 @@ st.set_page_config(
 )
 
 
+OUTPUT_FILES = {
+    "gold_customer_360": Path("data/gold/gold_customer_360.parquet"),
+    "gold_daily_transaction_summary": Path("data/gold/gold_daily_transaction_summary.parquet"),
+    "gold_product_performance": Path("data/gold/gold_product_performance.parquet"),
+    "gold_data_quality_dashboard": Path("data/gold/gold_data_quality_dashboard.parquet"),
+    "ml_customer_risk_features": Path("data/ml_features/ml_customer_risk_features.parquet"),
+    "ai_pipeline_triage": Path("data/metadata/ai_pipeline_triage.csv"),
+}
+
+
+LAYER_FILES = {
+    "bronze": [
+        Path("data/bronze/bronze_customers.parquet"),
+        Path("data/bronze/bronze_accounts.parquet"),
+        Path("data/bronze/bronze_products.parquet"),
+        Path("data/bronze/bronze_transactions.parquet"),
+        Path("data/bronze/bronze_customer_service_notes.parquet"),
+        Path("data/bronze/bronze_exchange_rates_api.parquet"),
+        Path("data/bronze/bronze_fraud_alert_events.parquet"),
+    ],
+    "silver": [
+        Path("data/silver/silver_customers.parquet"),
+        Path("data/silver/silver_accounts.parquet"),
+        Path("data/silver/silver_products.parquet"),
+        Path("data/silver/silver_transactions.parquet"),
+        Path("data/silver/silver_customer_service_notes.parquet"),
+        Path("data/silver/silver_exchange_rates_api.parquet"),
+        Path("data/silver/silver_fraud_alert_events.parquet"),
+    ],
+    "gold": [
+        Path("data/gold/gold_customer_360.parquet"),
+        Path("data/gold/gold_daily_transaction_summary.parquet"),
+        Path("data/gold/gold_product_performance.parquet"),
+        Path("data/gold/gold_data_quality_dashboard.parquet"),
+    ],
+    "ml_features": [
+        Path("data/ml_features/ml_customer_risk_features.parquet"),
+    ],
+    "ai_automation": [
+        Path("data/metadata/ai_pipeline_triage.csv"),
+    ],
+}
+
+
+def parquet_row_count(file_path: Path) -> int:
+    path = str(file_path).replace("\\", "/")
+    return duckdb.sql(f"SELECT COUNT(*) FROM read_parquet('{path}')").fetchone()[0]
+
+
 @st.cache_data
-def load_table(table_name: str) -> pd.DataFrame:
-    if not DUCKDB_PATH.exists():
+def load_parquet(file_path: str) -> pd.DataFrame:
+    path = str(file_path).replace("\\", "/")
+    return duckdb.sql(f"SELECT * FROM read_parquet('{path}')").df()
+
+
+@st.cache_data
+def load_csv(file_path: str) -> pd.DataFrame:
+    return pd.read_csv(file_path)
+
+
+@st.cache_data
+def load_output_table(table_name: str) -> pd.DataFrame:
+    file_path = OUTPUT_FILES[table_name]
+
+    if not file_path.exists():
         raise FileNotFoundError(
-            "DuckDB database not found. Run the pipeline first with: "
-            "python src/orchestration/run_pipeline.py"
+            f"Required dashboard file is missing: {file_path}. "
+            "Run the pipeline locally and commit the generated outputs."
         )
 
-    with duckdb.connect(str(DUCKDB_PATH), read_only=True) as connection:
-        return connection.execute(f"SELECT * FROM {table_name}").fetchdf()
+    if file_path.suffix == ".parquet":
+        return load_parquet(str(file_path))
+
+    if file_path.suffix == ".csv":
+        return load_csv(str(file_path))
+
+    raise ValueError(f"Unsupported dashboard file type: {file_path}")
 
 
 @st.cache_data
 def get_table_counts() -> pd.DataFrame:
-    tables = [
-        "bronze_customers",
-        "bronze_accounts",
-        "bronze_products",
-        "bronze_transactions",
-        "bronze_customer_service_notes",
-        "bronze_exchange_rates_api",
-        "bronze_fraud_alert_events",
-        "silver_customers",
-        "silver_accounts",
-        "silver_products",
-        "silver_transactions",
-        "silver_customer_service_notes",
-        "silver_exchange_rates_api",
-        "silver_fraud_alert_events",
-        "gold_customer_360",
-        "gold_daily_transaction_summary",
-        "gold_product_performance",
-        "gold_data_quality_dashboard",
-        "ml_customer_risk_features",
-        "ai_pipeline_triage",
-    ]
-
     records = []
 
-    with duckdb.connect(str(DUCKDB_PATH), read_only=True) as connection:
-        for table in tables:
-            count = connection.execute(f"SELECT COUNT(*) FROM {table}").fetchone()[0]
+    for layer, files in LAYER_FILES.items():
+        for file_path in files:
+            if not file_path.exists():
+                continue
 
-            if table.startswith("bronze_"):
-                layer = "bronze"
-            elif table.startswith("silver_"):
-                layer = "silver"
-            elif table.startswith("gold_"):
-                layer = "gold"
-            elif table.startswith("ml_"):
-                layer = "ml_features"
-            elif table.startswith("ai_"):
-                layer = "ai_automation"
+            if file_path.suffix == ".parquet":
+                row_count = parquet_row_count(file_path)
+            elif file_path.suffix == ".csv":
+                row_count = len(pd.read_csv(file_path))
             else:
-                layer = "other"
+                row_count = 0
 
             records.append(
                 {
                     "layer": layer,
-                    "table_name": table,
-                    "row_count": count,
+                    "table_name": file_path.stem,
+                    "row_count": row_count,
                 }
             )
 
@@ -126,20 +139,18 @@ def show_header() -> None:
 
 
 def show_kpis(table_counts: pd.DataFrame, dq_dashboard: pd.DataFrame, ml_features: pd.DataFrame) -> None:
-    total_transactions = int(
-        table_counts.loc[
-            table_counts["table_name"] == "silver_transactions",
-            "row_count",
-        ].iloc[0]
-    )
+    silver_transactions = table_counts.loc[
+        table_counts["table_name"] == "silver_transactions",
+        "row_count",
+    ]
 
-    total_customers = int(
-        table_counts.loc[
-            table_counts["table_name"] == "gold_customer_360",
-            "row_count",
-        ].iloc[0]
-    )
+    gold_customers = table_counts.loc[
+        table_counts["table_name"] == "gold_customer_360",
+        "row_count",
+    ]
 
+    total_transactions = int(silver_transactions.iloc[0]) if not silver_transactions.empty else 0
+    total_customers = int(gold_customers.iloc[0]) if not gold_customers.empty else 0
     total_rejects = int(dq_dashboard["total_reject_rule_hits"].sum())
     high_risk_customers = int(ml_features["synthetic_high_risk_label"].sum())
 
@@ -328,15 +339,14 @@ def show_ml_features(ml_features: pd.DataFrame) -> None:
 
 def main() -> None:
     show_header()
-    ensure_database_ready()
 
     try:
         table_counts = get_table_counts()
-        dq_dashboard = load_table("gold_data_quality_dashboard")
-        triage = load_table("ai_pipeline_triage")
-        customer_360 = load_table("gold_customer_360")
-        product_performance = load_table("gold_product_performance")
-        ml_features = load_table("ml_customer_risk_features")
+        dq_dashboard = load_output_table("gold_data_quality_dashboard")
+        triage = load_output_table("ai_pipeline_triage")
+        customer_360 = load_output_table("gold_customer_360")
+        product_performance = load_output_table("gold_product_performance")
+        ml_features = load_output_table("ml_customer_risk_features")
     except Exception as exc:
         st.error(str(exc))
         st.stop()
@@ -367,4 +377,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

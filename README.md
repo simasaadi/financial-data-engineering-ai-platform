@@ -1,7 +1,7 @@
 # Financial Data Engineering AI Platform
 
 [![Data Engineering CI](https://github.com/simasaadi/financial-data-engineering-ai-platform/actions/workflows/data-engineering-ci.yml/badge.svg)](https://github.com/simasaadi/financial-data-engineering-ai-platform/actions/workflows/data-engineering-ci.yml)
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://financial-data-engineering-ai-platform.streamlit.app)
+[![Open in Streamlit](https://img.shields.io/badge/Open%20in-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://financial-data-engineering-ai-platfrom.streamlit.app)
 
 A production-style financial data engineering platform built with synthetic banking data. The project demonstrates batch, API-style, and simulated streaming ingestion; bronze/silver/gold data architecture; automated data quality controls; ML-ready feature generation; CI/CD testing; and AI-assisted pipeline triage.
 
@@ -31,7 +31,7 @@ No real customer, banking, or confidential data is used.
 
 The Streamlit dashboard provides a visual monitoring layer for the pipeline.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://financial-data-engineering-ai-platform.streamlit.app)
+[![Open in Streamlit](https://img.shields.io/badge/Open%20in-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://financial-data-engineering-ai-platfrom.streamlit.app)
 
 If the public Streamlit deployment is not active yet, the dashboard can be run locally:
 
@@ -459,3 +459,4 @@ Planned improvements:
 Data Governance, Data Engineering, Analytics, and GIS  
 GitHub: [github.com/simasaadi](https://github.com/simasaadi)
 LinkedIn: [linkedin.com/in/sima-saadi](https://www.linkedin.com/in/sima-saadi/)
+
